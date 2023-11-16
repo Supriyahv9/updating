@@ -7,6 +7,7 @@ public class test1 {
 
 		
 		System.out.println("Welcome to Pune");
+		System.out.println("hello");
 	}
 
 }
